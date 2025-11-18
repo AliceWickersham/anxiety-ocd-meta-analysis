@@ -1,0 +1,5 @@
+﻿Study,StudyDesign,ad_n,ad_mean,ad_sd,co_n,co_mean,co_sd,ES,seES,lowerES,upperES,Pval,Weight,WeightPct
+Bortes et al. (2022),cohort,1396,-0.193,1.173,265268,0.112,0.901,-0.34,0.03,-0.39,-0.29,0,11.09,35.3
+Dalsgaard et al. (2020),cohort,1748,7.052534783,2.269808283,540752,6.761138287,2.298192866,0.13,0.02,0.08,0.17,0,11.11,35.4
+Negreiros et al. (2018),cross-sectional,25,303.16,18.71547755,25,317.16,24.05057172,-0.64,0.29,-1.21,-0.07,0.03,5.75,18.3
+Reinherz et al. (1993),cross-sectional,5,2.43,1.03,379,2.54,0.8,-0.14,0.45,-1.02,0.75,0.76,3.42,10.9
